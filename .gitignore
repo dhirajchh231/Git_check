@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/My First Project with Java/task/build/
+/My First Project with Java/task/out/
+/My First Project with Java/task/out/production/classes/
+/Topics/Formatted output/Creating a personalized greeting based on name and height/out/
+/Topics/Formatted output/Creating a personalized greeting based on name and height/out/production/classes/
+/Topics/Formatted output/Grade glam  Format your academic fame/out/
+/Topics/Formatted output/Grade glam  Format your academic fame/out/production/classes/
+/Topics/Formatted output/Job simulation/out/
+/Topics/Formatted output/Job simulation/out/production/classes/
