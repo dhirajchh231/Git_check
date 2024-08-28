@@ -5,7 +5,7 @@ public class Main {
         Locale.setDefault(Locale.ENGLISH);
         double pi = Math.PI;
         //write your code below
-        System.out.println(("%.3f").formatted(pi));
+        System.out.printf(("%.3f").formatted(pi));
 
     }
 }

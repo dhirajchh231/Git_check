@@ -1,10 +1,10 @@
 type: choice
 is_multiple_choice: false
 options:
-  - text: 35 23.340000
   - text: It will print an error
-  - text: 35.000000 23.340000
   - text: 35 23.34
+  - text: 35.000000 23.340000
+  - text: 35 23.340000
 files:
   - name: src/Task.java
     visible: true

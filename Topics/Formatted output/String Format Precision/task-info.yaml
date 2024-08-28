@@ -1,10 +1,10 @@
 type: choice
 is_multiple_choice: false
 options:
+  - text: "String.format(\"%.4s\", floatNum)"
+  - text: "String.format(\"%4f\", floatNum)"
   - text: "String.format(\"%.4f\", floatNum)"
   - text: "String.format(\"%.4\", floatNum)"
-  - text: "String.format(\"%4f\", floatNum)"
-  - text: "String.format(\"%.4s\", floatNum)"
 files:
   - name: src/Task.java
     visible: true

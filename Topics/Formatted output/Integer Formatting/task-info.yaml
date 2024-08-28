@@ -1,10 +1,10 @@
 type: choice
 is_multiple_choice: false
 options:
-  - text: The distance between two towns 120L
-  - text: The distance between two towns 120
   - text: Runtime Error
   - text: Compilation error
+  - text: The distance between two towns 120L
+  - text: The distance between two towns 120
 files:
   - name: src/Task.java
     visible: true
